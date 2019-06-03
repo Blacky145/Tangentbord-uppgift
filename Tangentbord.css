@@ -1,0 +1,156 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.keyboard{
+  width: 69vw; height: 45vh;
+  background-color: #424242;
+  margin: 0px auto;
+  padding: 30px;
+  color: white;
+  font-size: 16px;
+  border-radius: 25px;
+}
+.f{
+    width: 4vw; height:4.5vh;
+    display: inline-block;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    color: black;
+}
+.g{
+  width: 4vw; height:7vh;
+  display:inline-block;
+  background-color: black;
+  border: 1px solid yellow;
+  border-radius: 4px;
+  margin-bottom: 6px;
+  margin-right: 6px;
+}
+
+#Space{
+  width: 19.8vw; height:7vh;
+  display: inline-block;
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 4px;
+  color: black;
+}
+
+#Backspace{
+  width: 4.5vw; height:7vh;
+  display: inline-block;
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 4px;
+  color: black;
+}
+
+#Tab{
+  width: 5vw; height:7vh;
+  display: inline-block;
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 4px;
+  color: black;
+}
+
+#CapsLock{
+  width: 5.7vw; height:7vh;
+  display: inline-block;
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 4px;
+  color: black;
+}
+
+#ShiftLeft{
+  width: 8vw; height:7vh;
+  display: inline-block;
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 4px;
+  color: black;
+}
+
+#Enter{
+  width: 5vw; height:7vh;
+  display: inline-block;
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 4px;
+  color: black;
+}
+
+#PageUp{
+    width: 2.7vw; height:3vh;
+    display: inline-block;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    color: black;
+}
+
+#ArrowUp{
+    width: 2.7vw; height:3vh;
+    display: inline-block;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    color: black;
+}
+
+#PageDown{
+    width: 2.7vw; height:3vh;
+    display: inline-block;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    color: black;
+}
+
+
+#ArrowLeft{
+    width: 2.7vw; height:3vh;
+    display: inline-block;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    color: black;
+    position: relative;
+    top: 45px;
+    right: 190px
+}
+
+#ArrowDown{
+    width: 2.7vw; height:3vh;
+    display: inline-block;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    color: black;
+    position: relative;
+    top: 45px;
+    right: 190px
+}
+
+#ArrowRight{
+    width: 2.7vw; height:3vh;
+    display: inline-block;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    color: black;
+    position: relative;
+    top: 45px;
+    right: 190px
+}
